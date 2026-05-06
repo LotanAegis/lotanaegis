@@ -1,44 +1,51 @@
-# Hi, I’m Allen 👋
+# LotanAegis — IT Support Portfolio
 
-**Entry-Level IT Support / Service Desk | Google IT Support Professional Certificate | CompTIA A+ Prep | Bilingual EN/ES | Dallas–Fort Worth + Remote**
+This repository powers my professional landing page and public IT support workbench.
 
-I’m building a documentation-first IT support portfolio focused on practical troubleshooting, clear communication, and repeatable support workflows. My background is in customer support and technical problem-solving, and I’m using this GitHub as a clean public workbench for help desk readiness, labs, runbooks, and small automation projects.
+**Live focus:** entry-level IT Support / Service Desk readiness, documentation, troubleshooting, and practical technical learning.
 
-## 🎯 Current Focus
+## About Me
 
-- Applying for and growing into **Tier 1 IT Support / Service Desk / ISP Support** roles
-- Preparing for **CompTIA A+** after completing the **Google IT Support Professional Certificate**
-- Rebuilding this GitHub into a recruiter-friendly portfolio with clean documentation and safe public projects
-- Creating ticket-style writeups, troubleshooting runbooks, and small technical case studies
+I’m Allen Solomon, a Dallas-Fort Worth based IT support candidate with a background in customer support, technical troubleshooting, and clear communication.
 
-## 🧩 Support Strengths
+- **Google IT Support Professional Certificate**
+- **CompTIA A+ Prep**
+- **Bilingual:** English / Spanish
+- **Focus:** Tier 1 IT Support, Service Desk, ISP Support, Windows support, networking fundamentals, and documentation
 
-- **Clear communication:** calm, plain-English explanations for technical and non-technical users
-- **De-escalation:** patient support style with a focus on next steps and resolution
-- **Troubleshooting:** Windows basics, connectivity, account access, peripherals, and common user issues
-- **Documentation:** what changed, what I tested, the outcome, and the recommended next step
-- **Bilingual support:** English / Spanish customer communication
+## What This Site Is For
 
-## 🛠️ Skills
+This site is meant to be a clean recruiter-friendly landing page for:
 
-- **Operating Systems:** Windows 10/11, basic macOS/iOS support
-- **Networking:** TCP/IP, DNS, DHCP, Wi-Fi troubleshooting, router basics
-- **Tools:** Microsoft 365, Outlook, Teams, Excel, Google Workspace
-- **Documentation:** Markdown, GitHub, ticket-style notes, runbooks
-- **Learning Lab:** Linux CLI, Git, Active Directory concepts, SSH, basic security hygiene
+- IT support strengths
+- Certifications and current learning focus
+- Help desk runbooks
+- Ticket-style troubleshooting writeups
+- Windows and networking labs
+- Small technical case studies
 
-## 📌 Portfolio Roadmap
+Projects will be published or refreshed when they are documented, reproducible, and safe to share.
 
-This repo is being rebuilt as a more polished public landing page. Projects will be published or refreshed when they are documented, reproducible, and safe to share.
+## Portfolio Roadmap
 
-Planned portfolio areas:
+Planned public sections:
 
 - **Help Desk Runbooks:** practical Tier 1 troubleshooting guides
 - **Ticket-Style Writeups:** issue → diagnosis → fix → documentation
-- **Windows + Networking Labs:** hands-on practice notes for support fundamentals
-- **VBA + API Automation Case Study:** refresh of an Excel/VBA project that used the Google Maps API to batch-process addresses and calculate commute distance + emissions
+- **Windows + Networking Labs:** hands-on notes for support fundamentals
+- **VBA + API Automation Case Study:** refreshed documentation for an Excel/VBA project using the Google Maps API to batch-process addresses and calculate commute distance and emissions
 
-## 🤝 Let’s Connect
+## Repository Structure
 
-- LinkedIn: https://www.linkedin.com/in/allen-solomon-tx
-- Email: allenrsolo@pm.me
+```text
+.
+├── index.html      # Professional landing page
+├── styles.css      # Landing page styles
+└── README.md       # Repository overview
+```
+
+## Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/allen-solomon-tx
+- **GitHub:** https://github.com/LotanAegis
+- **Email:** allenrsolo@pm.me
