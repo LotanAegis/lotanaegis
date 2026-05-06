@@ -40,5 +40,5 @@ Planned portfolio areas:
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: https://www.linkedin.com/in/allen-solomon-9772393b3
+- LinkedIn: https://www.linkedin.com/in/allen-solomon-tx
 - Email: allenrsolo@pm.me
